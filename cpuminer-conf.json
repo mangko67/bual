@@ -1,0 +1,20 @@
+{
+	"_comment1" : "Any long-format command line argument ",
+	"_comment2" : "may be used in this JSON configuration file",
+
+	"api-bind" : "127.0.0.1:4048",
+
+	"url" : "stratum+tcp://mine.zpool.ca:4563",
+	"user" : "D5aBwWJnsbCHkhcY5T9KbUCWwpFwAYyPSk",
+	"pass" : "DGB",
+
+	"algo" : "lyra2z330",
+	"threads" : "2",
+	"cpu-priority" : 0,
+	"cpu-affinity" : -1,
+
+	"benchmark" : false,
+	"debug" : false,
+	"protocol": false,
+	"quiet" : false
+}
